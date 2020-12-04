@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "name": "Gehan",
+      "email": "gehan@gmail.com",
+      "age": 26,
+      "id": 1
+    },
+    {
+      "name": "Emo",
+      "email": "emo@gmail.com",
+      "age": 23,
+      "id": 2
+    },
+    {
+      "name": "Yaso",
+      "email": "yaso@gmail.com",
+      "age": 20,
+      "id": 3
+    },
+    {
+      "name": "Loly",
+      "email": "loly@gmail.com",
+      "age": 17,
+      "id": 4
+    },
+    {
+      "name": "Geko",
+      "email": "fg@gmail.com",
+      "age": "233",
+      "id": 5
+    },
+    {
+      "name": "GIHAN MAHMOUD",
+      "email": "jh@yafoo.com",
+      "age": "45",
+      "id": 6
+    },
+    {
+      "name": "Gehan Lmnyr",
+      "email": "jh@yafoo.com",
+      "age": "33",
+      "id": 7
+    },
+    {
+      "name": "haha",
+      "email": "haha@haha.com",
+      "age": "33",
+      "id": 8
+    }
+  ]
+}
